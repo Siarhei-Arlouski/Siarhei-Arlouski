@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hi, my name is Siarhei.<br>I have 1 year experience as manual QA.<br>I've just finished QA automation course and now I'm going to develop myself in this direction.
+Hello, my name is Siarhei, and I'm a QA Engineer with over a year of experience in manual testing. In addition to my manual testing experience, I can write automated tests in Java using the Selenide framework. I also have experience with Git, Allure, Cucumber, Gherkin, Jenkins, and BDD.
 
+In addition, I have experience working with databases and am proficient in SQL. I also have experience with API testing using tools such as Postman and SoapUI. I am skilled in using developer tools and Jira to track issues and manage projects.
+
+As a detail-oriented and analytical thinker, I'm committed to delivering high-quality work. I am a collaborative team player with excellent communication skills, and my English level is Upper Intermediate.
+
+If you're looking for a QA Engineer who is passionate about testing and has experience with a variety of testing tools and methodologies, I would love to connect with you. Please feel free to reach out to me if you have any questions or would like to discuss potential opportunities.
+
+Email: siarhei.arlouski@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siarhei-Arlouski) 
