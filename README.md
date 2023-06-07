@@ -3,7 +3,7 @@ Hello, my name is Siarhei, and I'm a QA Engineer with over a year of experience 
 
 In addition, I have experience working with databases and am proficient in SQL. I also have experience with API testing using tools such as Postman and SoapUI. I am skilled in using developer tools and Jira to track issues and manage projects.
 
-As a detail-oriented and analytical thinker, I'm committed to delivering high-quality work. I am a collaborative team player with excellent communication skills, and my English level is Upper Intermediate.
+As a detail-oriented and analytical thinker, I'm committed to delivering high-quality work. I am a collaborative team player with good communication skills, and my English level is Upper Intermediate.
 
 If you're looking for a QA Engineer who is passionate about testing and has experience with a variety of testing tools and methodologies, I would love to connect with you. Please feel free to reach out to me if you have any questions or would like to discuss potential opportunities.
 
